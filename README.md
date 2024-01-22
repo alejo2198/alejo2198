@@ -1,4 +1,4 @@
-![logo banner](logo.png)
+![logo banner](banner.png)
 
 <!--
 **alejo2198/alejo2198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
