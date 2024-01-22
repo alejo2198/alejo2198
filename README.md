@@ -1,6 +1,6 @@
 ![logo banner](banner.png)
 
-##My Experience
+## My Experience
 I am a junior web developer. I have done freelance work with my friends.
 Feel free to check out our [website](https://flf-freelance.netlify.app/).
 
