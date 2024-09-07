@@ -7,7 +7,7 @@ Feel free to check out our [website](https://flf-freelance.netlify.app/).
 I have experience working with a team as well as individually as a freelancer.
 I developed and co-designed this [website](https://quickresponseplumbing.ca/) for a local plumbing business.
 
-I am working on my [portfolio](https://alejandro-castro-portfolio.netlify.app/) and some projects. Please feel free to check it out.
+If you'd like to check out some of my other work. This is my [portfolio](https://www.alejandrocastro.dev)
 
 
 <!--
